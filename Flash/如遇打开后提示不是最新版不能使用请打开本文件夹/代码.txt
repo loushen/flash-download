@@ -1,0 +1,5 @@
+127.0.0.1 geo2.adobe.com
+127.0.0.1 fpdownload2.macromedia.com
+127.0.0.1 fpdownload.macromedia.com
+127.0.0.1 macromedia.com
+127.0.0.1 flash.cn
